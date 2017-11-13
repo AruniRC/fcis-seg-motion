@@ -1,3 +1,12 @@
+
+## FCIS segmentation outputs for motion segmentation
+
+Wrappers around MSR-Asia's [FCIS instance segmentation method](https://github.com/msracver/FCIS) to generate objectness maps for use in motion segmentation.
+
+
+
+
+
 ## Fully Convolutional Instance-aware Semantic Segmentation
 
 The major contributors of this repository include [Haozhi Qi](https://github.com/Oh233), [Yi Li](https://github.com/liyi14), [Guodong Zhang](https://github.com/gd-zhang), [Haochen Zhang](https://github.com/Braininvat), [Jifeng Dai](https://github.com/daijifeng001), and [Yichen Wei](https://github.com/YichenWei).
